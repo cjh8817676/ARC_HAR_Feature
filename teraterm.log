@@ -1,0 +1,976 @@
+cccccccccccccccccccccccccccccccccccccc@ÀHcWCcýHc8Bc,BcBcBcøAcèAcøAcøAcøAcèAcøAcèAcøAcøAcàAcèAcàAc¸AcèAcðAcøAcèAcèAcøAcðAcèAcðAcøAcøAcèAcÐAcØAcØAcÐAcàAcÐAcÈAcèAcàAcØAcøAcðAcÐAcèAcÐAcØAcèAcðAcBcøAcðAcøAcðAcàAcBcBc@BcTBcXBcXBclBclBclBctBc`BcLBc@Bc(BcBcBcèAcàAcðAcàAcðAcðAcÈAcðAcèAcÐAcðAcøAcBcBcèAcøAcðAcàAcðAcBcBcBcBcAc`AcAcÀAc|BcàBcCc0Cc-CcCcÞBc|Bc@BcpAcAc AcØAcØAcÐAcèAcÀAcÐAcØAcÐAcBcØAcÐAcØAcØAcÐAcBcðAcðAcøAcØAcàAcèAcàAcBcðAcøAcBcBcøAcBcBcBcBcBcøAc Bc(Bc8BcLBchBchBc
+BcBcBc¤Bc¢Bc¢Bc¨Bc¬Bc²Bc¶Bc²Bc¾BcªBc°Bc®Bc¬BcªBc¢Bc
+BcBcBchBcdBc4Bc0Bc BcBcðAcàAcÈAcÀAcÐAcØAcØAcØAcàAcØAcðAcàAcðAcàAcèAcBcèAcèAcðAcèAcðAcàAcÐAcðAcðAcøAcèAc
+BcèAcèAcðAcàAcøAcøAcèAcBcBcøAcðAcðAcBcøAcBcBcBcBcèAcðAcèAcBcBcBcBcBcðAcBcBcÈAcBcBcBcBc$Bc4Bc\Bc`BclBcBcBcBcBcdBc\BcHBc$BcBcBcèAcBcBcðAcðAcBcøAcBcBcøAcBcBc
+BcBcàAcøAcBcBcBcBcèAcøAcØAc Ac`AcÈAc$Bc BcCcc>Cc CcCcÂBcDBcBcAcAc°AcèAcàAcøAcBcàAcèAcèAcØAcðAcBcðAcøAcøAcøAcøAcðAcðAcBcøAcBcøAcBcBcBcøAcBcBcBcBcBcøAcBcBcBc$Bc0BcDBc`BctBcBcBcBcBc¦BcBc Bc¤Bc¨Bc¸Bc¶Bc´Bc²Bc¸Bc¸Bc°Bc¨Bc BcBcBcBctBclBcLBc4Bc(Bc
+BcèAcÈAcàAcèAcèAcàAcèAcàAcèAcÐAcØAcàAcØAcèAcàAcðAcøAcØAcàAcBcàAcðAcèAcØAcØAcøAcðAcBcBcðAcèAcðAcBcðAcèAcðAcèAcøAcBcBcBcBcBcèAcðAcðAcèAcBcBcBcøAcàAcØAcBcBcBcBcøAcBcBcBcBc(Bc4BcPBcdBclBcBcBcBcBchBcTBcTBc0Bc,BcBcðAcBcBcøAcBcðAcøAcBcBcBcBcBcøAcBcèAcèAcBcðAcBcBcðAcBcBcAcAc@AcAcLBcÌBcöBc-Cc8Cc(CcøBc BchBc°AcAcAcèAcØAcBcøAcøAc
+BcèAcèAcèAcðAcèAcBcBcðAcøAcðAcàAcðAcBcBcøAcBcðAcøAcøAcBcBcBcBcBcøAcBcBcðAcBc(Bc,BcXBcdBc|BcBc
+Bc
+BcBc¢Bc¢Bc¤Bc¤Bc²Bc¶Bc°Bc²Bc¶Bc²Bc´Bc²Bc°Bc BcBcBc
+BchBclBcTBcDBcBcBcèAcèAcÐAcØAcèAcàAcØAcàAcØAcàAcèAcØAcðAcèAcøAcøAcðAcBcðAcBcèAcðAcèAcðAcBcàAcÈAcøAcàAcðAcBcBcèAcøAcàAcøAcÐAcøAcøAcàAcøAcøAcBcBcèAcèAcðAcBcðAcàAcðAcøAcBc
+BcèAcàAcBcøAcBcBcBcBc@Bc<Bc`BchBc\Bc|BcBcBcBcpBcXBcTBc@Bc BcBcBcBcBcBcBcðAcøAcøAcBcàAcðAcðAcBcBc
+BcBcBcBcBc
+BcøAcøAcØAc°AcAc`AcàActBcèBcCc5Cc-CcCcÚBcBcLBcpAcPAcAcðAcðAcèAcàAcðAcðAcàAcèAcÐAcØAcÈAcàAcèAcðAcøAcàAcðAcBcøAc
+BcðAcBcBcèAcðAcðAcèAcBcèAcøAcàAcBcðAcBcBc BcLBcPBcLBc|BcBcBcBc Bc¤BcªBc¬Bc¬Bc¸Bc¼Bc¶Bc¸Bc²BcºBc²Bc´Bc¬Bc¨BcBc
+BcBctBchBc<Bc0BcBcðAcèAcÐAcèAcèAcØAcÐAcÐAcðAcÈAcàAcèAc¸AcèAcðAcðAcØAcàAcàAcBcèAcøAcèAcèAcðAcØAcÐAcðAcøAcðAcðAcðAcðAcèAcøAcøAcèAcðAcèAcøAcBcBcBcøAcBcØAcÐAcøAcøAcBc
+BcBcBcBcBcBcøAcBcðAcðAcBcBcBc4Bc0BcdBc\BctBcBcBcBcBcpBcdBc@Bc0BcBcBcBcBcðAcðAcàAcøAcøAcøAcøAcBcBc
+BcBcBcBcBcøAcBcBcBcøAcèAcÀAc°Ac@Ac0Ac Bc¬BcÚBc Cc:Cc4Cc	Cc¶BcBcBcAcAc¨AcèAcðAcðAcØAcàAcèAcØAcøAcðAcðAcøAcèAcðAcèAcàAcèAcBcðAcèAcèAcøAcðAcBcàAcðAcøAcðAcBcBcàAcBcBcðAcBc,Bc(BcLBcXBchBctBc
+BcBcBcBc¤Bc¨Bc¦Bc¬Bc¸Bc´Bc²Bc®Bc¸Bc¸Bc¸Bc¶Bc BcBcBcBchBcdBcDBc@BcBcBcBcØAcÈAcØAcÈAc¸AcàAcØAcàAcØAcàAcÐAcàAcÐAp@c 0 c´ÿccccc
+	c	ccc¼ÿÿÿcT+ cÏc­ø$sc¼ÿlc5cc Nc Ncc Nc Nc
+
+Test sample[1] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[2] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[2] Start Reading
+
+Test sample[2] Start Invoking
+
+Test sample[2] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[2] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[3] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[3] Start Reading
+
+Test sample[3] Start Invoking
+
+Test sample[3] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[3] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[4] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[4] Start Reading
+
+Test sample[4] Start Invoking
+
+Test sample[4] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[4] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[5] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[5] Start Reading
+
+Test sample[5] Start Invoking
+
+Test sample[5] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[5] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[6] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[6] Start Reading
+
+Test sample[6] Start Invoking
+
+Test sample[6] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[6] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[7] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[7] Start Reading
+
+Test sample[7] Start Invoking
+
+Test sample[7] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[7] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[8] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[8] Start Reading
+
+Test sample[8] Start Invoking
+
+Test sample[8] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[8] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[9] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[9] Start Reading
+
+Test sample[9] Start Invoking
+
+Test sample[9] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[9] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[10] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[10] Start Reading
+
+Test sample[10] Start Invoking
+
+Test sample[10] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[10] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[11] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[11] Start Reading
+
+Test sample[11] Start Invoking
+
+Test sample[11] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[11] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[12] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[12] Start Reading
+
+Test sample[12] Start Invoking
+
+Test sample[12] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[12] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[13] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[13] Start Reading
+
+Test sample[13] Start Invoking
+
+Test sample[13] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[13] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[14] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[14] Start Reading
+
+Test sample[14] Start Invoking
+
+Test sample[14] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[14] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[15] Start Finding Max Value
+
+Test sample "f":
+Predicted e (50%) - FAIL
+
+Test sample[15] Start Reading
+
+Test sample[15] Start Invoking
+
+Test sample[15] Start Finding Max Value
+
+Test sample "f":
+Predicted e (50%) - FAIL
+
+Test sample[15] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[16] Start Finding Max Value
+
+Test sample "f":
+Predicted v (50%) - FAIL
+
+Test sample[16] Start Reading
+
+Test sample[16] Start Invoking
+
+Test sample[16] Start Finding Max Value
+
+Test sample "f":
+Predicted v (50%) - FAIL
+
+Test sample[16] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[17] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[17] Start Reading
+
+Test sample[17] Start Invoking
+
+Test sample[17] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[17] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[18] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[18] Start Reading
+
+Test sample[18] Start Invoking
+
+Test sample[18] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[18] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[19] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[19] Start Reading
+
+Test sample[19] Start Invoking
+
+Test sample[19] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[19] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[20] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[20] Start Reading
+
+Test sample[20] Start Invoking
+
+Test sample[20] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[20] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[21] Start Finding Max Value
+
+Test sample "v":
+Predicted v (50%) - SUCCESS
+
+Test sample[21] Start Reading
+
+Test sample[21] Start Invoking
+
+Test sample[21] Start Finding Max Value
+
+Test sample "v":
+Predicted v (50%) - SUCCESS
+
+Test sample[21] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[22] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[22] Start Reading
+
+Test sample[22] Start Invoking
+
+Test sample[22] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[22] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[23] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[23] Start Reading
+
+Test sample[23] Start Invoking
+
+Test sample[23] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[23] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[24] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[24] Start Reading
+
+Test sample[24] Start Invoking
+
+Test sample[24] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[24] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[25] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[25] Start Reading
+
+Test sample[25] Start Invoking
+
+Test sample[25] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[25] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[26] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[26] Start Reading
+
+Test sample[26] Start Invoking
+
+Test sample[26] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[26] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[27] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[27] Start Reading
+
+Test sample[27] Start Invoking
+
+Test sample[27] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[27] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[28] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[28] Start Reading
+
+Test sample[28] Start Invoking
+
+Test sample[28] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[28] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[29] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[29] Start Reading
+
+Test sample[29] Start Invoking
+
+Test sample[29] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[29] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[30] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[30] Start Reading
+
+Test sample[30] Start Invoking
+
+Test sample[30] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[30] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[31] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[31] Start Reading
+
+Test sample[31] Start Invoking
+
+Test sample[31] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[31] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[32] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[32] Start Reading
+
+Test sample[32] Start Invoking
+
+Test sample[32] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[32] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[33] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[33] Start Reading
+
+Test sample[33] Start Invoking
+
+Test sample[33] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[33] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[34] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[34] Start Reading
+
+Test sample[34] Start Invoking
+
+Test sample[34] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[34] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[35] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[35] Start Reading
+
+Test sample[35] Start Invoking
+
+Test sample[35] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[35] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[36] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[36] Start Reading
+
+Test sample[36] Start Invoking
+
+Test sample[36] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[36] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[37] Start Finding Max Value
+
+Test sample "w":
+Predicted w (50%) - SUCCESS
+
+Test sample[37] Start Reading
+
+Test sample[37] Start Invoking
+
+Test sample[37] Start Finding Max Value
+
+Test sample "w":
+Predicted w (50%) - SUCCESS
+
+Test sample[37] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[38] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[38] Start Reading
+
+Test sample[38] Start Invoking
+
+Test sample[38] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[38] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[39] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[39] Start Reading
+
+Test sample[39] Start Invoking
+
+Test sample[39] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[39] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[40] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[40] Start Reading
+
+Test sample[40] Start Invoking
+
+Test sample[40] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[40] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[41] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[41] Start Reading
+
+Test sample[41] Start Invoking
+
+Test sample[41] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[41] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[42] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[42] Start Reading
+
+Test sample[42] Start Invoking
+
+Test sample[42] Start Finding Max Value
+
+Test sample "f":
+Predicted f (50%) - SUCCESS
+
+Test sample[42] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[43] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[43] Start Reading
+
+Test sample[43] Start Invoking
+
+Test sample[43] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[43] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[44] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[44] Start Reading
+
+Test sample[44] Start Invoking
+
+Test sample[44] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[44] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[45] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[45] Start Reading
+
+Test sample[45] Start Invoking
+
+Test sample[45] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[45] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[46] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[46] Start Reading
+
+Test sample[46] Start Invoking
+
+Test sample[46] Start Finding Max Value
+
+Test sample "q":
+Predicted q (50%) - SUCCESS
+
+Test sample[46] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[47] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[47] Start Reading
+
+Test sample[47] Start Invoking
+
+Test sample[47] Start Finding Max Value
+
+Test sample "N":
+Predicted N (50%) - SUCCESS
+
+Test sample[47] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[48] Start Finding Max Value
+
+Test sample "v":
+Predicted v (50%) - SUCCESS
+
+Test sample[48] Start Reading
+
+Test sample[48] Start Invoking
+
+Test sample[48] Start Finding Max Value
+
+Test sample "v":
+Predicted v (50%) - SUCCESS
+
+Test sample[48] Finsih
+
+
+Test sample[4] Start Invoking
+
+Test sample[49] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[49] Start Reading
+
+Test sample[49] Start Invoking
+
+Test sample[49] Start Finding Max Value
+
+Test sample "s":
+Predicted s (50%) - SUCCESS
+
+Test sample[49] Finsih
+
+
+Correct Rate = 96 / 100
+
+
+Test sample[0] Start Invoking
+
+Test sample[0] Start Finding Max Value
+
+Predicted N (50%)
+Test sample[1] Start Invoking
+
+Test sample[1] Start Finding Max Value
+
+Predicted e (50%)
+Test sample[2] Start Invoking
+
+Test sample[2] Start Finding Max Value
+
+Predicted e (50%)
+Test sample[3] Start Invoking
+
+Test sample[3] Start Finding Max Value
+
+Predicted e (50%)
+URAT_GET_STRING_START
+12222222222-----------------------------------------------------------	
+ Himax WEI Boot loader 
+------------------------------------------------------------	
+
+embARC Build Time: Jan  4 2021, 13:44:14
+Compiler Version: Metaware, 4.2.1 Compatible Clang 8.0.1 
+Boot loader Version : 1.4.4 (Date:Jan  4 2021)
+chip version : 0x8535a1 
+cpu speed : 400000000 hz
+spi speed : 50000000 hz
+wake up evt:4
+...secure lib version = 352380df9a347b1187d2361bfcd4455178a1ebcb
+1st APPLICATION addr[3]=21000 (main-1966)
+Bootloader Done !!!!!!
+jump to app FW : 0x10000004
+URAT_GET_STRING_START
+12222222222
